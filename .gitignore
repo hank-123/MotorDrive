@@ -1,0 +1,17 @@
+*.log  
+*.plg  
+*.bak  
+*.dep  
+*.uvgui.*  
+JLinkLog.txt  
+*.o  
+*.d  
+*.crf  
+*.tra  
+*.axf   
+*.lnp  
+*.sct  
+*.__i  
+*.htm  
+*.hex
+*.lst
